@@ -4,4 +4,4 @@
  * time   : 13:39
  * date   : 2020/10/21
  */
-echo 'hello Git';
+echo 'hello Git!';
