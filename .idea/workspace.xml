@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="true" current-in-tab="false">
         <entry file="remoteDeploymentFS://&lt;72a9a15f-4505-4ce4-b1e3-ff59179f5fd3&gt;/adminsys/technology.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="true" current-in-tab="true">
+      <file pinned="true" current-in-tab="false">
         <entry file="remoteDeploymentFS://&lt;72a9a15f-4505-4ce4-b1e3-ff59179f5fd3&gt;/adminsys/_inc.content.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="259">
@@ -85,9 +95,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="&lt;72a9a15f-4505-4ce4-b1e3-ff59179f5fd3&gt;/adminsys/templates/_inc.search.tpl.php" />
         <option value="&lt;72a9a15f-4505-4ce4-b1e3-ff59179f5fd3&gt;/adminsys/_inc.content.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -153,21 +163,20 @@
       <workItem from="1603258381451" duration="114000" />
       <workItem from="1603258505149" duration="70000" />
       <workItem from="1603258613368" duration="1720000" />
-      <workItem from="1603260512267" duration="2569000" />
+      <workItem from="1603260512267" duration="3241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4739000" />
+    <option name="totallyTimeSpent" value="5411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19665948" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19665948" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" id="Remote Host" order="3" visible="true" weight="0.22090517" />
+      <window_info id="Remote Host" order="3" weight="0.22090517" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -178,7 +187,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298731" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33257404" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3321918" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -192,8 +201,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="162">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
